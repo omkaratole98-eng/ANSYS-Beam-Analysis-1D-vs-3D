@@ -29,12 +29,6 @@ The beam was represented using 1D beam elements in ANSYS Mechanical.
 
 ![1D Beam Cross Section](1D%20Beam%20with%20Cross%20section.png)
 
-### Complete Model Setup
-
-![Beam with Applications](Beam%20with%20all%20Applications.png)
-
-The model includes the required loading and boundary conditions for the structural analysis.
-
 ---
 
 ## Meshing
