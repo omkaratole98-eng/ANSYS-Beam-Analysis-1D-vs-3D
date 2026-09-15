@@ -74,7 +74,7 @@ solution accuracy and computational cost.
 
 ### Mesh
 
-![3D Beam Mesh](../Images/3D_Beam_Mesh.png)
+
 
 ---
 
@@ -93,14 +93,13 @@ The applied supports and loading conditions are shown below.
 The total deformation obtained from the 3D finite element analysis is
 shown below.
 
-![3D Total Deformation](../Images/3D_Total_Deformation.png)
+![3D Total Deformation](Total%20Deformation.gif)
 
 ### Equivalent Stress
 
 The equivalent (von-Mises) stress distribution obtained from the
 analysis is shown below.
-
-![3D Equivalent Stress](../Images/3D_Equivalent_Stress.png)
+![3D Equivalent Stress](Equivalent%20Stress.gif)
 
 ---
 
@@ -111,8 +110,8 @@ the results obtained using 1D beam elements.
 
 | Parameter | Analytical | 1D FEA | 3D FEA |
 |-----------|------------|---------|---------|
-| Maximum Stress | XX MPa | XX MPa | XX MPa |
-| Maximum Deformation | XX mm | XX mm | XX mm |
+| Maximum Stress | 375 MPa | 375 MPa | 378 MPa |
+| Maximum Deformation | 0.785 mm | 0.785 XX mm | 0.788 mm |
 
 ---
 
