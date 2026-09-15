@@ -73,7 +73,7 @@ The mesh was selected to provide an appropriate balance between
 solution accuracy and computational cost.
 
 ### Mesh
-
+![3D Beam with All Applications](3%20D%20Beam%20with%20all%20Applications.png)
 
 
 ---
@@ -81,8 +81,7 @@ solution accuracy and computational cost.
 ## Boundary Conditions and Loading
 
 The applied supports and loading conditions are shown below.
-
-![3D Beam Boundary Conditions](../Images/3D_Beam_Setup.png)
+![Fixed Support](Fixed%20Support%20at%20Edge.png)
 
 ---
 
@@ -110,8 +109,8 @@ the results obtained using 1D beam elements.
 
 | Parameter | Analytical | 1D FEA | 3D FEA |
 |-----------|------------|---------|---------|
-| Maximum Stress | 375 MPa | 375 MPa | 378 MPa |
-| Maximum Deformation | 0.785 mm | 0.785 XX mm | 0.788 mm |
+| Maximum Stress | 375 MPa | 372 MPa | 378 MPa |
+| Maximum Deformation | 0.785 mm | 0.785 mm | 0.788 mm |
 
 ---
 
